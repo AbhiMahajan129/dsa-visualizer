@@ -106,7 +106,7 @@ export default function MergeSortVisualizer() {
           placeholder="Enter numbers separated by commas"
           value={inputValue}
           onChange={handleInputChange}
-          className="w-[200px] h-[30px] "
+          className="w-[300px] h-[30px] "
         />
         <button
           onClick={handleStartSort}
